@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228763065893",
+    "project_id": "vouchchallenge-2ab53",
+    "storage_bucket": "vouchchallenge-2ab53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228763065893:android:0b957b92536578b59069cc",
+        "android_client_info": {
+          "package_name": "com.VouchChallenge.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228763065893-rd449bk5d76nvl4t3f7phj66phivmk5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCg3shck-JP9D8ZL3KIf2dni8R90ZqcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228763065893-rd449bk5d76nvl4t3f7phj66phivmk5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
